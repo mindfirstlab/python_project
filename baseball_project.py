@@ -2,7 +2,7 @@
 <야구게임 만들기>
 
 ---규칙정리---
-(참고: https://www.youtube.com/watch?v=i5fvsBGUz6Q)
+
 9회까지 경기
 play : Team_A, Team_B로 나뉘어 경기
 누가 먼저 공격할지 우선순위 랜덤으로 정하기
